@@ -4,3 +4,4 @@
 4 git comit
 5 git rm
 git status
+git diff
