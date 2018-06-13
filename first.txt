@@ -1,7 +1,7 @@
-1 Gitの練習をしていきます
-2 基本的なワークフローを学びます
-3　git add
-4 git comit
-5 git rm
+Gitの練習をしていきます
+基本的なワークフローを学びます
+git add
+git comit
+git rm
 git status
 git diff
